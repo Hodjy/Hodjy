@@ -2,8 +2,8 @@
 
 ### :smile: About me:
 
-My name is Hod, a 3rd year computer science student near graduation.         
-Currently looking for a junior software development job.       
+My name is Hod, a Software Developer.         
+Currently looking for a junior development position.       
 Loves to learn and experience new things.     
 
 
