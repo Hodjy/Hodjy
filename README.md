@@ -4,6 +4,7 @@
 
 My name is hod, a 3rd year computer science student near graduation.         
 Currently looking for a junior software development job.       
+Loves to learn and experience new things.     
 
 
 - 💪 Confident with: 
