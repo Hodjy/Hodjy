@@ -8,7 +8,7 @@ Loves to learn and experience new things.
 
 
 - 💪 Confident with: 
-  - C# Dot net, Java. 
+  - C, C++,C# .Net, Java. 
   - Unity, UnrealEngine, Android Studio.
   - OOP, Design Patterns, UML graphs.
 
