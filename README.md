@@ -2,7 +2,7 @@
 
 ### :smile: About me:
 
-My name is hod, a 3rd year computer science student near graduation.         
+My name is Hod, a 3rd year computer science student near graduation.         
 Currently looking for a junior software development job.       
 Loves to learn and experience new things.     
 
@@ -12,7 +12,7 @@ Loves to learn and experience new things.
   - Unity, UnrealEngine, Android Studio.
   - OOP, Design Patterns, UML graphs.
 
-- :mailbox_with_mail: how to each me:
+- :mailbox_with_mail: how to reach me:
   - [LinkedIn](https://www.linkedin.com/in/hod-yaakov-5b468a1b7/)
   - [Mail](hody8086@gmail.com)
 
