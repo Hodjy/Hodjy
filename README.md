@@ -6,7 +6,7 @@ My name is hod, a 3rd year computer science student near graduation.
 Currently looking for a junior software development job.       
 
 
-- Confident with: 
+- 💪 Confident with: 
   - C# Dot net, Java. 
   - Unity, UnrealEngine, Android Studio.
   - OOP, Design Patterns, UML graphs.
