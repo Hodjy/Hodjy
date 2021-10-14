@@ -2,7 +2,7 @@
 
 ### :smile: About me:
 
-My name is Hod, a Software Developer.         
+My name is Yehuda, a Software Developer.         
 Currently looking for a junior development position.       
 Loves to learn and experience new things.     
 
