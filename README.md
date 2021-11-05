@@ -13,8 +13,7 @@ Loves to learn and experience new things.
   - OOP, Design Patterns, UML graphs.
 
 - :mailbox_with_mail: how to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/hod-yaakov-5b468a1b7/)
-  - [Mail](hody8086@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/yehuda-jacob/)
 
 
 
